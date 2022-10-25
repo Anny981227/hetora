@@ -12,7 +12,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: SecretPATH/vp
+      path: SecretPATH/vm
   sniffing:
     enabled: true
     destOverride:
