@@ -5,11 +5,11 @@
     "env": {
         "VmessUUID": {
             "description": "Vmess UUID. Use UUID tools to generate you own UUID.",
-            "value": "ad2c9acd-3afb-4fae-aff2-954c532020bd"
+            "value": "b998f739-ab18-44f0-881b-f7c0372aaaae"
         },
         "SecretPATH": {
             "description": "Websocket base Path. Set this path to an uncommon path which doesn't contain sensitive information.",
-            "value": "/mypath"
+            "value": "/bypath"
         },
         "PASSWORD": {
             "description": "Trojan Password, recommend strong password.",
