@@ -13,7 +13,7 @@
         },
         "PASSWORD": {
             "description": "Trojan Password, recommend strong password.",
-            "value": "password"
+            "value": "66a370d9-ca97-4c38-ae43-e43f5f9b9eda"
         },        
         "ArgoJSON": {
             "description": "Argo tunnel JSON. Optional.",
