@@ -3,7 +3,7 @@
 # The URL of the script project is:
 # https://github.com/XTLS/Xray-install
 
-# Modified by wy580477 for customized container <https://github.com/wy580477>
+# Modified by Anny for customized container <https://github.com/Anny981227>
 
 # You can set this variable whatever you want in shell session right before running this script by issuing:
 # export FILES_PATH='/usr/local/share/xray'
